@@ -1,0 +1,17 @@
+/* Estilos adicionais para personalizar a página */
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+h2 {
+  font-size: 28px;
+  color: #333;
+}
+
+.modal-content {
+  border-radius: 15px;
+}
